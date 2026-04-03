@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Shieldhelder",
+    "Name": "Target Bark Notifier",
+    "InternalName": "TargetBarkNotifier",
+    "AssemblyVersion": "1.1.5.3",
+    "Description": "根据聊天消息匹配规则并发送推送通知（支持 Bark / NotifyMe），可选 TTS 播报、掉线监控、命令执行。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Shieldhelder/TargetBarkNotifier",
+    "Tags": [
+      "notification",
+      "bark",
+      "chat",
+      "automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 14,
+    "IconUrl": "",
+    "Punchline": "聊天关键词匹配并推送手机 Push",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Shieldhelder/TargetBarkNotifier/releases/download/latest/TargetBarkNotifier.zip",
+    "DownloadLinkTesting": "https://github.com/Shieldhelder/TargetBarkNotifier/releases/download/latest/TargetBarkNotifier.zip",
+    "DownloadLinkUpdate": "https://github.com/Shieldhelder/TargetBarkNotifier/releases/download/latest/TargetBarkNotifier.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1775276400,
+    "Changelog": "v1.1.5.3: 推送超时重试(30s/5次)、重连后缀、规则排除词、MapID过滤、掉线监控解锁、通知记录筛选"
+  }
+]
