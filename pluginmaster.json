@@ -3,8 +3,8 @@
     "Author": "Shieldhelder",
     "Name": "Target Bark Notifier",
     "InternalName": "TargetBarkNotifier",
-    "AssemblyVersion": "1.1.5.4",
-    "Description": "根据聊天消息匹配规则并发送推送通知（支持 Bark / NotifyMe），可选 TTS 播报、掉线监控、命令执行。",
+    "AssemblyVersion": "1.2.0.1",
+    "Description": "Target Bark Notifier 是一个轻量、开源的插件：\n- 监听游戏内聊天消息\n- 按规则匹配关键词\n- 触发后发送手机推送（支持 Bark / NotifyMe / Server酱3）\n- 可选 TTS 播报（系统语音）\n- 可选游戏掉线监控与客户端心跳确认功能",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Shieldhelder/TargetBarkNotifier",
     "Tags": [
@@ -25,6 +25,6 @@
     "DownloadLinkUpdate": "https://github.com/Shieldhelder/TargetBarkNotifier/releases/download/latest/TargetBarkNotifier.zip",
     "DownloadCount": 0,
     "LastUpdate": 1775276400,
-    "Changelog": "v1.1.5.4: 增加在线监控能力，需要额外运行TBN Monitor。"
+    "Changelog": "v1.2.0.1 增加Push方式与问题修复"
   }
 ]
