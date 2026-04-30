@@ -25,6 +25,49 @@
     "DownloadLinkUpdate": "https://github.com/Shieldhelder/TargetBarkNotifier/releases/download/latest/TargetBarkNotifier.zip",
     "DownloadCount": 0,
     "LastUpdate": 1775276400,
-    "Changelog": "v1.2.0.1 增加Push方式与问题修复 v1.2.0.2 修改描述文本"
-  }
+    "Changelog": ""
+  },
+  {
+  "Author": "daemitus, croizat",
+  "Name": "Something Need Doing",
+  "InternalName": "SomethingNeedDoing",
+  "AssemblyVersion": "15.1.1.0",
+  "Description": "仅临时适配，为快速适配删除代码样式\nNow for more than crafting!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+  "Tags": [
+    "crafting",
+    "automation",
+    "macros",
+    "lua",
+    "scripting"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/somethingneeddoing.zip",
+  "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
+  "Punchline": "Work work.",
+  "AcceptsFeedback": false
+},
+{
+  "Author": "NightmareXIV",
+  "Name": "Lifestream",
+  "InternalName": "Lifestream",
+  "AssemblyVersion": "2.5.4.1",
+  "Description": "仅临时适配\n- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/lifestream.zip",
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+  "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+  "AcceptsFeedback": false
+}
 ]
