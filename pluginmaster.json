@@ -74,7 +74,7 @@
   "Author": "Herculezz, erdelf",
   "Name": "AutoDuty",
   "InternalName": "AutoDuty",
-  "AssemblyVersion": "0.300.1.0",
+  "AssemblyVersion": "0.300.3.0",
   "Description": "仅临时适配\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/erdelf/AutoDuty",
