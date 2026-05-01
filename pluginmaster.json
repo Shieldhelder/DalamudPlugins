@@ -72,7 +72,7 @@
 },
 {
   "Author": "Shieldhelder",
-  "Name": "自动隐藏他人挖宝怪",
+  "Name": "HideTreasureEnemies",
   "InternalName": "HideTreasureEnemies",
   "AssemblyVersion": "1.0.0.0",
   "Description": "自动隐藏他人挖宝召唤出的怪物，避免干扰选中和战斗。",
