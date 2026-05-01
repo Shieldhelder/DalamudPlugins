@@ -74,17 +74,17 @@
   "Author": "Shieldhelder",
   "Name": "HideTreasureEnemies",
   "InternalName": "HideTreasureEnemies",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "自动隐藏他人挖宝召唤出的怪物，避免干扰选中和战斗。",
+  "AssemblyVersion": "1.0.1.0",
+  "Description": "自动隐藏怪物，避免干扰选中和战斗",
   "ApplicableVersion": "any",
   "RepoUrl": "",
   "DalamudApiLevel": 15,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/hidetreasureenemies.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/hidetreasureenemies.zip",
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "自动隐藏他人挖宝召唤出的怪物",
+  "Punchline": "自动隐藏怪物，避免干扰选中和战斗",
   "AcceptsFeedback": false
 }
 ]
