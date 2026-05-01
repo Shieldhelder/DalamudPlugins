@@ -27,31 +27,6 @@
     "LastUpdate": 1775276400,
     "Changelog": ""
   },
-  {
-  "Author": "daemitus, croizat",
-  "Name": "Something Need Doing",
-  "InternalName": "SomethingNeedDoing",
-  "AssemblyVersion": "15.1.1.0",
-  "Description": "仅临时适配，为快速适配删除代码样式\nNow for more than crafting!",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-  "Tags": [
-    "crafting",
-    "automation",
-    "macros",
-    "lua",
-    "scripting"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/somethingneeddoing.zip",
-  "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
-  "Punchline": "Work work.",
-  "AcceptsFeedback": false
-},
 {
   "Author": "NightmareXIV",
   "Name": "Lifestream",
