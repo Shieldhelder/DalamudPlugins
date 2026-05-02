@@ -20,7 +20,7 @@
     "IconUrl": "",
     "Punchline": "聊天关键词匹配并推送手机 Push",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "ttps://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/tbn.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/tbn.zip",
     "DownloadCount": 0,
     "LastUpdate": 1775276400,
     "Changelog": ""
