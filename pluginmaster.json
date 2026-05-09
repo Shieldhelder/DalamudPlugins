@@ -29,7 +29,7 @@
   "Author": "Shieldhelder",
   "Name": "隐藏怪物（BlockEnemies）",
   "InternalName": "BlockTreasureEnemy",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "自动隐藏怪物，避免干扰选中和战斗",
   "ApplicableVersion": "any",
   "RepoUrl": "",
