@@ -41,5 +41,28 @@
   "LoadPriority": 0,
   "Punchline": "自动隐藏怪物，避免干扰选中和战斗",
   "AcceptsFeedback": false
+},
+{
+  "Author": "Jukkales",
+  "Name": "HoardFarm CN",
+  "InternalName": "HoardFarm",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "此插件在国际服确认会导致账号封禁\n请考虑清楚后决定是否使用\n下载后请于24小时内删除，因使用本资源造成的任何法律纠纷或损失，均由使用者自行承担\n\n\nPlugin to help farming DeepDungeon Hoards (...for you)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "hoard",
+    "farm",
+    "deepdungeon",
+    "heavenonhigh"
+  ],
+  "DalamudApiLevel": 15,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/Hoardfarm.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Become an accursed Hoarder!",
+  "AcceptsFeedback": false
 }
 ]
