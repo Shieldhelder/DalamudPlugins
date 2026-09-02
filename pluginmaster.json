@@ -74,18 +74,15 @@
   "AssemblyVersion": "15.67",
   "Version": "15.67",
   "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/GlamourLog_15.67_CN.zip",
   "ApplicableVersion": "any",
   "Tags": [ "glamour" ],
   "DalamudApiLevel": 15,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/GlamourLog_15.67_CN.zip",
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://puni.sh/api/plugins/icon/136",
-  "AcceptsFeedback": true,
-  "SupportsProfiles": true,
-  "IsHide": false
+  "AcceptsFeedback": false
 }
-
 ]
