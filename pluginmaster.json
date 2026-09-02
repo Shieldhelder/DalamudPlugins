@@ -69,7 +69,7 @@
   "Author": "croizat",
   "Name": "Glamour Log",
   "Punchline": "Gotta collect 'em all",
-  "Description": 用于记录你的全部幻化外观收集状况及其他幻化相关功能增强（国服特供版）\n颜色主题为浅色，字体无法辨认时，请在设置页面修改为深色文字主题。",
+  "Description": "用于记录你的全部幻化外观收集状况及其他幻化相关功能增强（国服特供版）\n颜色主题为浅色，字体无法辨认时，请在设置页面修改为深色文字主题。",
   "InternalName": "GlamourLog",
   "AssemblyVersion": "15.67",
   "Version": "15.67",
