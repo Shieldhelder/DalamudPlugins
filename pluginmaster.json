@@ -77,7 +77,7 @@
   "ApplicableVersion": "any",
   "Tags": [ "glamour" ],
   "DalamudApiLevel": 15,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/GlamourLog_15.67.10.0_CN.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/GlamourLog_15.67.11.0_CN.zip",
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
