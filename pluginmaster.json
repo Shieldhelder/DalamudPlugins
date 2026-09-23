@@ -84,5 +84,22 @@
   "LoadPriority": 0,
   "IconUrl": "https://puni.sh/api/plugins/icon/136",
   "AcceptsFeedback": false
+},
+{
+  "Author": "Shieldhelder",
+  "Name": "NearbyPlayerDetector",
+  "InternalName": "NearbyPlayerDetector",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "检测周围区域玩家人数与距离，满足条件后顺序执行命令序列。支持白名单、多条件独立开关、条件解除后重新准备与冷却。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 15,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Shieldhelder/DalamudPlugins/main/plugins/NearbyPlayerDetector.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "我想玩单机版FF14",
+  "AcceptsFeedback": false
 }
 ]
